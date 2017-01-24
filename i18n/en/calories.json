@@ -1,0 +1,61 @@
+{
+    "calories": {
+        "title": "My calories",
+        "title.notSameUser": "User [{{userLogin}}]",
+        "subTitle": {
+            "1": "Here are your meals information",
+            "2": "Here are the meals information"
+        },
+        "noMealFound": "No meal information is defined yet",
+        "created": "Your meal information were successfully added",
+        "updated": "Your meal information were successfully updated",
+        "deleted": "Your meal information were successfully deleted",
+
+        "modal": {
+            "title": "Meal Information",
+            "messages": {
+                "error": {
+                    "failed": "Operation failed ! Please check all input are well inquired and try again."
+                }
+            },
+            "form": {
+                "button": "Save",
+                "meal": "Meal description",
+                "meal.placeholder": "Meal description",
+                "calories": "Number of calories",
+                "calories.placeholder": "Number of calories",
+                "date": "Date",
+                "date.placeholder": "date",
+                "time": "Time",
+                "time.placeholder": "Time"
+            }
+        },
+
+        "table": {
+            "headers": {
+                "date": "Date",
+                "description": "Description",
+                "calories": "Calories",
+                "time": "Time",
+                "actions": "Actions"
+            },
+            "action": {
+                "edit": "Edit",
+                "delete": "Delete"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete this Meal Information ?"
+            }
+        },
+
+        "filter": {
+            "from": "From",
+            "to": "To",
+            "button": {
+                "filter": "Filter",
+                "clear": "Clear"
+            },
+            "errorMessage": "Check that the begin date and time are before the end date and time"
+        }
+    }
+}
